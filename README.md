@@ -5,11 +5,11 @@ Bu repo [Patika.Dev](https://www.patika.dev) Front-End Eğitiminde ödev olarak 
 ![github](img/google1998Image.PNG)
 
 ## Installation
-Öncelikle projeyi clonelayın.[Google 1998 Clone](https://github.com/dgnarslan/google1998Clone.git)
+Öncelikle projeyi clonelayın.[Google 1998 Clone](https://github.com/cmucahit/Google98Clone.git)
 
 
 ```bash
-git clone https://github.com/dgnarslan/google1998Clone.git
+git clone https://github.com/cmucahit/Google98Clone.git
 ```
 
 ## Usage
@@ -18,10 +18,6 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-```linux
-cd kodluyoruzilkrepo
-code .
-```
 
 ## Contributing
 
